@@ -1,0 +1,11 @@
+.input {
+  width: 200px;
+  display: block;
+  padding: 3px 0 3px 10px;
+  line-height: 18px;
+  margin-left: 20px;
+}
+
+.laibel {
+  padding-left: 20px;
+}

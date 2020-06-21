@@ -1,0 +1,13 @@
+.errorMessageContainer {
+  padding: 20px;
+  position: absolute;
+  top: 60px;
+  right: 60px;
+  background-color: #f1392d;
+}
+.errorMessageText {
+  margin: 0;
+  color: #fff;
+  font-weight: 500;
+  line-height: 10px;
+}

@@ -1,0 +1,11 @@
+.container {
+  width: 500px;
+  margin: 0 auto;
+  padding-top: 30px;
+  position: relative;
+}
+.logo {
+  margin-bottom: 20px;
+  color: blue;
+  font-size: 40px;
+}

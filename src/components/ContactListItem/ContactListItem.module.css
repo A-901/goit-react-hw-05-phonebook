@@ -1,0 +1,13 @@
+.button {
+  display: inline-block;
+}
+
+.name {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.number {
+  display: inline-block;
+  margin-right: 10px;
+}
